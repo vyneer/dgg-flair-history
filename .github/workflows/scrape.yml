@@ -36,7 +36,7 @@ jobs:
     - name: Fetch latest flair images
       if: steps.change_check.outputs.GIT_STATUS != '0'
       run: |-
-        jq -rj '.[] | if (.image[].url | length) then (.image[].url, " ", "images/" + .name + "." + (.image[].name | split(".") | .[1]), "\n") else empty end' flairs.json | xargs -n2 sh -c 'curl --create-dirs -o $1 $0'
+        jq -rj '.[] | select(.image[].url != null) | if (.image[].url | length) then (.image[].url, " ", "images/" + .name + "." + (.image[].name | split(".") | .[1]), "\n") else empty end' flairs.json | xargs -n2 sh -c 'curl --create-dirs -o $1 $0'
     - name: Commit and push if it changed
       if: steps.change_check.outputs.GIT_STATUS != '0'
       run: |-
