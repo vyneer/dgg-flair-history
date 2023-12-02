@@ -140,7 +140,10 @@
 }
 
 .flair.flair23 {
-  display: none !important;
+  background-image: url("656a7210cbd29.png");
+  height: 16px;
+  width: 16px;
+  order: 50;
 }
 
 .flair.flair11 {

@@ -279,11 +279,11 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": null,
-        "name": null,
-        "mime": null,
-        "height": null,
-        "width": null
+        "url": "https://cdn.destiny.gg/2.86.1/flairs/656a7210cbd29.png",
+        "name": "656a7210cbd29.png",
+        "mime": "image/png",
+        "height": 16,
+        "width": 16
       }
     ]
   },
