@@ -270,6 +270,24 @@
     ]
   },
   {
+    "label": "Vim Expert",
+    "name": "flair31",
+    "description": "This user can close vim",
+    "hidden": false,
+    "priority": 50,
+    "color": "",
+    "rainbowColor": false,
+    "image": [
+      {
+        "url": "https://cdn.destiny.gg/2.87.1/flairs/658273eb9ad1a.png",
+        "name": "658273eb9ad1a.png",
+        "mime": "image/png",
+        "height": 16,
+        "width": 16
+      }
+    ]
+  },
+  {
     "label": "Medical Professional",
     "name": "flair23",
     "description": "Completed Medical School (Successfully)",
