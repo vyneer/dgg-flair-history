@@ -270,20 +270,20 @@
     ]
   },
   {
-    "label": "Vim Expert",
+    "label": "DGG Developer",
     "name": "flair31",
-    "description": "This user can close vim",
+    "description": "Has made significant contributions to the DGG codebase",
     "hidden": false,
     "priority": 50,
     "color": "",
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/658273eb9ad1a.png",
-        "name": "658273eb9ad1a.png",
+        "url": "https://cdn.destiny.gg/2.87.1/flairs/65910f3d9028c.png",
+        "name": "65910f3d9028c.png",
         "mime": "image/png",
-        "height": 16,
-        "width": 16
+        "height": 18,
+        "width": 18
       }
     ]
   },
