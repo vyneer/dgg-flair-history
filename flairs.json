@@ -36,6 +36,24 @@
     ]
   },
   {
+    "label": "Emote Master",
+    "name": "flair18",
+    "description": "Manages emotes for the chat ",
+    "hidden": false,
+    "priority": 2,
+    "color": "",
+    "rainbowColor": true,
+    "image": [
+      {
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5e7eb5881b894.png",
+        "name": "5e7eb5881b894.png",
+        "mime": "image/png",
+        "height": 16,
+        "width": 16
+      }
+    ]
+  },
+  {
     "label": "VIP",
     "name": "vip",
     "description": null,
@@ -479,24 +497,6 @@
       {
         "url": "https://cdn.destiny.gg/2.91.1/flairs/61952a6b4a85b.png",
         "name": "61952a6b4a85b.png",
-        "mime": "image/png",
-        "height": 16,
-        "width": 16
-      }
-    ]
-  },
-  {
-    "label": "Emote Master",
-    "name": "flair18",
-    "description": "Manages emotes for the chat ",
-    "hidden": false,
-    "priority": 50,
-    "color": "",
-    "rainbowColor": false,
-    "image": [
-      {
-        "url": "https://cdn.destiny.gg/2.91.1/flairs/5e7eb5881b894.png",
-        "name": "5e7eb5881b894.png",
         "mime": "image/png",
         "height": 16,
         "width": 16

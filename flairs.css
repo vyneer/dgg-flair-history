@@ -71,13 +71,6 @@
   display: none !important;
 }
 
-.flair.flair18 {
-  background-image: url("5e7eb5881b894.png");
-  height: 16px;
-  width: 16px;
-  order: 50;
-}
-
 .flair.flair21 {
   background-image: url("61952a6b4a85b.png");
   height: 16px;
@@ -284,6 +277,31 @@
 }
 .user.vip {
   color: #DB4C1C;
+}
+
+.flair.flair18 {
+  background-image: url("5e7eb5881b894.png");
+  height: 16px;
+  width: 16px;
+  order: 2;
+}
+.user.flair18 {
+  color: transparent;
+  background: var(--rainbow-gradient);
+  background-clip: text;
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  animation: move 3s linear infinite;
+  position: relative;
+}
+.msg-chat:not(.msg-whisper) .user.flair18:hover::before {
+  content: "";
+  position: absolute;
+  top: calc(100% - 2px);
+  width: 100%;
+  left: 0;
+  height: 1px;
+  background: var(--rainbow-gradient);
 }
 
 .flair.admin {
