@@ -9,7 +9,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5d90d259a2c85.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5d90d259a2c85.png",
         "name": "5d90d259a2c85.png",
         "mime": "image/png",
         "height": 18,
@@ -27,7 +27,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/admin.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/admin.png",
         "name": "admin.png",
         "mime": "image/png",
         "height": 16,
@@ -45,7 +45,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/vip.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/vip.png",
         "name": "vip.png",
         "mime": "image/png",
         "height": 16,
@@ -56,18 +56,18 @@
   {
     "label": "Subscriber Tier 5",
     "name": "flair42",
-    "description": null,
+    "description": "",
     "hidden": false,
     "priority": 3,
     "color": "#eb79da",
     "rainbowColor": true,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/63a8dfa666486.png",
-        "name": "63a8dfa666486.png",
-        "mime": "image/png",
-        "height": 18,
-        "width": 18
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a7078d5f17.gif",
+        "name": "660a7078d5f17.gif",
+        "mime": "image/gif",
+        "height": 20,
+        "width": 20
       }
     ]
   },
@@ -81,7 +81,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5db5bbac3b5e3.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5db5bbac3b5e3.png",
         "name": "5db5bbac3b5e3.png",
         "mime": "image/png",
         "height": 18,
@@ -99,7 +99,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5db032dc72304.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5db032dc72304.png",
         "name": "5db032dc72304.png",
         "mime": "image/png",
         "height": 16,
@@ -117,7 +117,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair12.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair12.png",
         "name": "flair12.png",
         "mime": "image/png",
         "height": 16,
@@ -128,72 +128,72 @@
   {
     "label": "Subscriber Tier 4",
     "name": "flair8",
-    "description": null,
+    "description": "",
     "hidden": false,
     "priority": 4,
     "color": "#DD29D2",
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair8.png",
-        "name": "flair8.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a707f5165a.png",
+        "name": "660a707f5165a.png",
         "mime": "image/png",
-        "height": 18,
-        "width": 18
+        "height": 20,
+        "width": 20
       }
     ]
   },
   {
     "label": "Subscriber Tier 3",
     "name": "flair3",
-    "description": null,
+    "description": "",
     "hidden": false,
     "priority": 5,
     "color": "#4DB524",
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair3.png",
-        "name": "flair3.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a7060667ac.png",
+        "name": "660a7060667ac.png",
         "mime": "image/png",
-        "height": 18,
-        "width": 18
+        "height": 20,
+        "width": 20
       }
     ]
   },
   {
     "label": "Subscriber Tier 2",
     "name": "flair1",
-    "description": null,
+    "description": "",
     "hidden": false,
     "priority": 6,
     "color": "#2ADDC8",
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair1.png",
-        "name": "flair1.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a70694da5b.png",
+        "name": "660a70694da5b.png",
         "mime": "image/png",
-        "height": 18,
-        "width": 18
+        "height": 20,
+        "width": 20
       }
     ]
   },
   {
     "label": "Subscriber Tier 1",
     "name": "flair13",
-    "description": null,
+    "description": "",
     "hidden": false,
     "priority": 7,
     "color": "#59AEEA",
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair13.png",
-        "name": "flair13.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a706d657a5.png",
+        "name": "660a706d657a5.png",
         "mime": "image/png",
-        "height": 18,
-        "width": 18
+        "height": 20,
+        "width": 20
       }
     ]
   },
@@ -207,7 +207,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5c051292d3d40.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5c051292d3d40.png",
         "name": "5c051292d3d40.png",
         "mime": "image/png",
         "height": 16,
@@ -225,7 +225,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/subscriber.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/subscriber.png",
         "name": "subscriber.png",
         "mime": "image/png",
         "height": 18,
@@ -243,7 +243,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/bot.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/bot.png",
         "name": "bot.png",
         "mime": "image/png",
         "height": 16,
@@ -261,7 +261,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair11.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair11.png",
         "name": "flair11.png",
         "mime": "image/png",
         "height": 16,
@@ -279,7 +279,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/65910f3d9028c.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/65910f3d9028c.png",
         "name": "65910f3d9028c.png",
         "mime": "image/png",
         "height": 18,
@@ -297,7 +297,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/656bd088d581e.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/656bd088d581e.png",
         "name": "656bd088d581e.png",
         "mime": "image/png",
         "height": 18,
@@ -315,7 +315,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/642920d7e1374.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/642920d7e1374.png",
         "name": "642920d7e1374.png",
         "mime": "image/png",
         "height": 16,
@@ -333,7 +333,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/62009fbb2c290.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/62009fbb2c290.png",
         "name": "62009fbb2c290.png",
         "mime": "image/png",
         "height": 16,
@@ -351,7 +351,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/61edb2c369fd2.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/61edb2c369fd2.png",
         "name": "61edb2c369fd2.png",
         "mime": "image/png",
         "height": 15,
@@ -369,7 +369,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/6193083522e8b.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/6193083522e8b.png",
         "name": "6193083522e8b.png",
         "mime": "image/png",
         "height": 16,
@@ -387,7 +387,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/60b130f07c0c4.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/60b130f07c0c4.png",
         "name": "60b130f07c0c4.png",
         "mime": "image/png",
         "height": 18,
@@ -405,7 +405,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5f28cdec6ed24.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5f28cdec6ed24.png",
         "name": "5f28cdec6ed24.png",
         "mime": "image/png",
         "height": 16,
@@ -423,7 +423,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5eec3a0714472.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5eec3a0714472.png",
         "name": "5eec3a0714472.png",
         "mime": "image/png",
         "height": 18,
@@ -441,7 +441,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5eec3775ecc6f.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5eec3775ecc6f.png",
         "name": "5eec3775ecc6f.png",
         "mime": "image/png",
         "height": 18,
@@ -459,7 +459,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5eec1b7ac598c.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5eec1b7ac598c.png",
         "name": "5eec1b7ac598c.png",
         "mime": "image/png",
         "height": 18,
@@ -477,7 +477,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/61952a6b4a85b.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/61952a6b4a85b.png",
         "name": "61952a6b4a85b.png",
         "mime": "image/png",
         "height": 16,
@@ -495,7 +495,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5e7eb5881b894.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5e7eb5881b894.png",
         "name": "5e7eb5881b894.png",
         "mime": "image/png",
         "height": 16,
@@ -513,7 +513,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/5cd3e65ccd551.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/5cd3e65ccd551.png",
         "name": "5cd3e65ccd551.png",
         "mime": "image/png",
         "height": 16,
@@ -531,7 +531,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair19.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair19.png",
         "name": "flair19.png",
         "mime": "image/png",
         "height": 16,
@@ -549,7 +549,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair15.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair15.png",
         "name": "flair15.png",
         "mime": "image/png",
         "height": 16,
@@ -567,7 +567,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair14.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair14.png",
         "name": "flair14.png",
         "mime": "image/png",
         "height": 16,
@@ -585,7 +585,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair10.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair10.png",
         "name": "flair10.png",
         "mime": "image/png",
         "height": 16,
@@ -603,7 +603,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair6.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair6.png",
         "name": "flair6.png",
         "mime": "image/png",
         "height": 16,
@@ -621,7 +621,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair5.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair5.png",
         "name": "flair5.png",
         "mime": "image/png",
         "height": 16,
@@ -639,7 +639,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair4.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair4.png",
         "name": "flair4.png",
         "mime": "image/png",
         "height": 16,
@@ -657,7 +657,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/flair2.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/flair2.png",
         "name": "flair2.png",
         "mime": "image/png",
         "height": 16,
@@ -675,7 +675,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/moderator.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/moderator.png",
         "name": "moderator.png",
         "mime": "image/png",
         "height": 16,
@@ -693,7 +693,7 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.87.1/flairs/protected.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/protected.png",
         "name": "protected.png",
         "mime": "image/png",
         "height": 16,
