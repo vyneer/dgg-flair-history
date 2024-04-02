@@ -81,11 +81,11 @@
     "rainbowColor": true,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a7078d5f17.gif",
-        "name": "660a7078d5f17.gif",
-        "mime": "image/gif",
-        "height": 20,
-        "width": 20
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660bf5854b5ea.png",
+        "name": "660bf5854b5ea.png",
+        "mime": "image/png",
+        "height": 18,
+        "width": 18
       }
     ]
   },
@@ -153,11 +153,11 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a707f5165a.png",
-        "name": "660a707f5165a.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660bf5716c364.png",
+        "name": "660bf5716c364.png",
         "mime": "image/png",
-        "height": 20,
-        "width": 20
+        "height": 18,
+        "width": 18
       }
     ]
   },
@@ -171,11 +171,11 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a7060667ac.png",
-        "name": "660a7060667ac.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660bf54c599ad.png",
+        "name": "660bf54c599ad.png",
         "mime": "image/png",
-        "height": 20,
-        "width": 20
+        "height": 18,
+        "width": 18
       }
     ]
   },
@@ -189,11 +189,11 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a70694da5b.png",
-        "name": "660a70694da5b.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660bf57a97fdc.png",
+        "name": "660bf57a97fdc.png",
         "mime": "image/png",
-        "height": 20,
-        "width": 20
+        "height": 18,
+        "width": 18
       }
     ]
   },
@@ -207,11 +207,11 @@
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/2.91.1/flairs/660a706d657a5.png",
-        "name": "660a706d657a5.png",
+        "url": "https://cdn.destiny.gg/2.91.1/flairs/660bf55cdd507.png",
+        "name": "660bf55cdd507.png",
         "mime": "image/png",
-        "height": 20,
-        "width": 20
+        "height": 18,
+        "width": 18
       }
     ]
   },
