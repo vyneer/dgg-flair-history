@@ -41,8 +41,8 @@
     "description": "Manages emotes for the chat ",
     "hidden": false,
     "priority": 2,
-    "color": "",
-    "rainbowColor": true,
+    "color": "#f082bb",
+    "rainbowColor": false,
     "image": [
       {
         "url": "https://cdn.destiny.gg/2.91.1/flairs/5e7eb5881b894.png",
