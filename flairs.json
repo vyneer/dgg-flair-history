@@ -72,6 +72,24 @@
     ]
   },
   {
+    "label": "Anything Else? Subscriber Tier 5",
+    "name": "flair33",
+    "description": "",
+    "hidden": false,
+    "priority": 3,
+    "color": "#eb79da",
+    "rainbowColor": true,
+    "image": [
+      {
+        "url": "https://cdn.destiny.gg/2.92.2/flairs/66197b69340a5.png",
+        "name": "66197b69340a5.png",
+        "mime": "image/png",
+        "height": 18,
+        "width": 18
+      }
+    ]
+  },
+  {
     "label": "Subscriber Tier 5",
     "name": "flair42",
     "description": "",
@@ -144,6 +162,24 @@
     ]
   },
   {
+    "label": "Anything Else? Subscriber Tier 4",
+    "name": "flair26",
+    "description": "",
+    "hidden": false,
+    "priority": 4,
+    "color": "#DD29D2",
+    "rainbowColor": false,
+    "image": [
+      {
+        "url": "https://cdn.destiny.gg/2.92.2/flairs/66197b55bcd1c.png",
+        "name": "66197b55bcd1c.png",
+        "mime": "image/png",
+        "height": 18,
+        "width": 18
+      }
+    ]
+  },
+  {
     "label": "Subscriber Tier 4",
     "name": "flair8",
     "description": "",
@@ -155,6 +191,24 @@
       {
         "url": "https://cdn.destiny.gg/2.92.2/flairs/660bf5716c364.png",
         "name": "660bf5716c364.png",
+        "mime": "image/png",
+        "height": 18,
+        "width": 18
+      }
+    ]
+  },
+  {
+    "label": "Anything Else? Subscriber Tier 3",
+    "name": "flair24",
+    "description": "",
+    "hidden": false,
+    "priority": 5,
+    "color": "#4DB524",
+    "rainbowColor": false,
+    "image": [
+      {
+        "url": "https://cdn.destiny.gg/2.92.2/flairs/66197b3e13918.png",
+        "name": "66197b3e13918.png",
         "mime": "image/png",
         "height": 18,
         "width": 18
@@ -180,6 +234,24 @@
     ]
   },
   {
+    "label": "Anything Else? Subscriber Tier 2",
+    "name": "flair22",
+    "description": "",
+    "hidden": false,
+    "priority": 6,
+    "color": "#2ADDC8",
+    "rainbowColor": false,
+    "image": [
+      {
+        "url": "https://cdn.destiny.gg/2.92.2/flairs/66197b1f1907c.png",
+        "name": "66197b1f1907c.png",
+        "mime": "image/png",
+        "height": 18,
+        "width": 18
+      }
+    ]
+  },
+  {
     "label": "Subscriber Tier 2",
     "name": "flair1",
     "description": "",
@@ -191,6 +263,24 @@
       {
         "url": "https://cdn.destiny.gg/2.92.2/flairs/660bf57a97fdc.png",
         "name": "660bf57a97fdc.png",
+        "mime": "image/png",
+        "height": 18,
+        "width": 18
+      }
+    ]
+  },
+  {
+    "label": "Anything Else? Subscriber Tier 1",
+    "name": "flair32",
+    "description": "",
+    "hidden": false,
+    "priority": 7,
+    "color": "#59AEEA",
+    "rainbowColor": false,
+    "image": [
+      {
+        "url": "https://cdn.destiny.gg/2.92.2/flairs/661863be40be8.png",
+        "name": "661863be40be8.png",
         "mime": "image/png",
         "height": 18,
         "width": 18
@@ -284,24 +374,6 @@
         "mime": "image/png",
         "height": 16,
         "width": 16
-      }
-    ]
-  },
-  {
-    "label": "Anything Else? Patreon Subscriber",
-    "name": "flair32",
-    "description": "",
-    "hidden": false,
-    "priority": 50,
-    "color": "",
-    "rainbowColor": false,
-    "image": [
-      {
-        "url": "https://cdn.destiny.gg/2.92.2/flairs/661863be40be8.png",
-        "name": "661863be40be8.png",
-        "mime": "image/png",
-        "height": 18,
-        "width": 18
       }
     ]
   },
@@ -446,60 +518,6 @@
         "mime": "image/png",
         "height": 16,
         "width": 16
-      }
-    ]
-  },
-  {
-    "label": "DND Knight Tier Party",
-    "name": "flair26",
-    "description": "A Tombs of Scoria Patreon supporter",
-    "hidden": true,
-    "priority": 50,
-    "color": "",
-    "rainbowColor": false,
-    "image": [
-      {
-        "url": "https://cdn.destiny.gg/2.92.2/flairs/5eec3a0714472.png",
-        "name": "5eec3a0714472.png",
-        "mime": "image/png",
-        "height": 18,
-        "width": 18
-      }
-    ]
-  },
-  {
-    "label": "DND Knight Tier Scoria",
-    "name": "flair24",
-    "description": "A Tombs of Scoria Patreon supporter",
-    "hidden": true,
-    "priority": 50,
-    "color": "",
-    "rainbowColor": false,
-    "image": [
-      {
-        "url": "https://cdn.destiny.gg/2.92.2/flairs/5eec3775ecc6f.png",
-        "name": "5eec3775ecc6f.png",
-        "mime": "image/png",
-        "height": 18,
-        "width": 18
-      }
-    ]
-  },
-  {
-    "label": "DND Baron Tier Gold",
-    "name": "flair22",
-    "description": "A Tombs of Scoria Patreon supporter",
-    "hidden": true,
-    "priority": 50,
-    "color": "",
-    "rainbowColor": false,
-    "image": [
-      {
-        "url": "https://cdn.destiny.gg/2.92.2/flairs/5eec1b7ac598c.png",
-        "name": "5eec1b7ac598c.png",
-        "mime": "image/png",
-        "height": 18,
-        "width": 18
       }
     ]
   },

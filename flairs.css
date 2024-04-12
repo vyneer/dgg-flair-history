@@ -78,18 +78,6 @@
   order: 50;
 }
 
-.flair.flair22 {
-  display: none !important;
-}
-
-.flair.flair24 {
-  display: none !important;
-}
-
-.flair.flair26 {
-  display: none !important;
-}
-
 .flair.flair25 {
   display: none !important;
 }
@@ -132,13 +120,6 @@
 
 .flair.flair31 {
   background-image: url("65910f3d9028c.png");
-  height: 18px;
-  width: 18px;
-  order: 50;
-}
-
-.flair.flair32 {
-  background-image: url("661863be40be8.png");
   height: 18px;
   width: 18px;
   order: 50;
@@ -188,6 +169,16 @@
   color: #59AEEA;
 }
 
+.flair.flair32 {
+  background-image: url("661863be40be8.png");
+  height: 18px;
+  width: 18px;
+  order: 7;
+}
+.user.flair32 {
+  color: #59AEEA;
+}
+
 .flair.flair1 {
   background-image: url("660bf57a97fdc.png");
   height: 18px;
@@ -195,6 +186,16 @@
   order: 6;
 }
 .user.flair1 {
+  color: #2ADDC8;
+}
+
+.flair.flair22 {
+  background-image: url("66197b1f1907c.png");
+  height: 18px;
+  width: 18px;
+  order: 6;
+}
+.user.flair22 {
   color: #2ADDC8;
 }
 
@@ -208,6 +209,16 @@
   color: #4DB524;
 }
 
+.flair.flair24 {
+  background-image: url("66197b3e13918.png");
+  height: 18px;
+  width: 18px;
+  order: 5;
+}
+.user.flair24 {
+  color: #4DB524;
+}
+
 .flair.flair8 {
   background-image: url("660bf5716c364.png");
   height: 18px;
@@ -215,6 +226,16 @@
   order: 4;
 }
 .user.flair8 {
+  color: #DD29D2;
+}
+
+.flair.flair26 {
+  background-image: url("66197b55bcd1c.png");
+  height: 18px;
+  width: 18px;
+  order: 4;
+}
+.user.flair26 {
   color: #DD29D2;
 }
 
@@ -261,6 +282,31 @@
   position: relative;
 }
 .msg-chat:not(.msg-whisper) .user.flair42:hover::before {
+  content: "";
+  position: absolute;
+  top: calc(100% - 2px);
+  width: 100%;
+  left: 0;
+  height: 1px;
+  background: var(--rainbow-gradient);
+}
+
+.flair.flair33 {
+  background-image: url("66197b69340a5.png");
+  height: 18px;
+  width: 18px;
+  order: 3;
+}
+.user.flair33 {
+  color: transparent;
+  background: var(--rainbow-gradient);
+  background-clip: text;
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  animation: move 3s linear infinite;
+  position: relative;
+}
+.msg-chat:not(.msg-whisper) .user.flair33:hover::before {
   content: "";
   position: absolute;
   top: calc(100% - 2px);
