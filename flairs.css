@@ -79,24 +79,15 @@
 }
 
 .flair.flair22 {
-  background-image: url("5eec1b7ac598c.png");
-  height: 18px;
-  width: 18px;
-  order: 50;
+  display: none !important;
 }
 
 .flair.flair24 {
-  background-image: url("5eec3775ecc6f.png");
-  height: 18px;
-  width: 18px;
-  order: 50;
+  display: none !important;
 }
 
 .flair.flair26 {
-  background-image: url("5eec3a0714472.png");
-  height: 18px;
-  width: 18px;
-  order: 50;
+  display: none !important;
 }
 
 .flair.flair25 {
