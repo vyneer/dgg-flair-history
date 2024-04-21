@@ -160,10 +160,7 @@
 }
 
 .flair.flair13 {
-  background-image: url("660bf55cdd507.png");
-  height: 18px;
-  width: 18px;
-  order: 7;
+  display: none !important;
 }
 .user.flair13 {
   color: #59AEEA;
@@ -180,10 +177,7 @@
 }
 
 .flair.flair1 {
-  background-image: url("660bf57a97fdc.png");
-  height: 18px;
-  width: 18px;
-  order: 6;
+  display: none !important;
 }
 .user.flair1 {
   color: #2ADDC8;
@@ -200,10 +194,7 @@
 }
 
 .flair.flair3 {
-  background-image: url("660bf54c599ad.png");
-  height: 18px;
-  width: 18px;
-  order: 5;
+  display: none !important;
 }
 .user.flair3 {
   color: #4DB524;
@@ -220,10 +211,7 @@
 }
 
 .flair.flair8 {
-  background-image: url("660bf5716c364.png");
-  height: 18px;
-  width: 18px;
-  order: 4;
+  display: none !important;
 }
 .user.flair8 {
   color: #DD29D2;
@@ -267,10 +255,7 @@
 }
 
 .flair.flair42 {
-  background-image: url("660bf5854b5ea.png");
-  height: 18px;
-  width: 18px;
-  order: 3;
+  display: none !important;
 }
 .user.flair42 {
   color: transparent;
