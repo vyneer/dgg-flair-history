@@ -381,16 +381,16 @@
     "label": "Team YEE",
     "name": "flair36",
     "description": "YEE NEVA LOSE",
-    "hidden": true,
+    "hidden": false,
     "priority": 50,
     "color": "",
     "rainbowColor": false,
     "image": [
       {
-        "url": "https://cdn.destiny.gg/4.39.3/flairs/692a87791bf7c.png",
-        "name": "692a87791bf7c.png",
+        "url": "https://cdn.destiny.gg/4.39.3/flairs/694075cb9df46.png",
+        "name": "694075cb9df46.png",
         "mime": "image/png",
-        "height": 20,
+        "height": 18,
         "width": 18
       }
     ]
