@@ -33,18 +33,21 @@
 }
 
 .flair.flair2 {
-  background-image: url("flair2.png");
+  display: none !important;
+}
+
+.flair.flair4 {
+  background-image: url("69b8e357adb7e.png");
   height: 16px;
   width: 16px;
   order: 127;
 }
 
-.flair.flair4 {
-  display: none !important;
-}
-
 .flair.flair5 {
-  display: none !important;
+  background-image: url("69b8e43620144.png");
+  height: 18px;
+  width: 18px;
+  order: 127;
 }
 
 .flair.flair6 {
@@ -147,6 +150,20 @@
 
 .flair.flair35 {
   background-image: url("6940ab6e57e1b.png");
+  height: 18px;
+  width: 18px;
+  order: 50;
+}
+
+.flair.flair123 {
+  background-image: url("69b8e6a7d32ad.png");
+  height: 18px;
+  width: 18px;
+  order: 50;
+}
+
+.flair.flair124 {
+  background-image: url("69b8e3c2bf60d.webp");
   height: 18px;
   width: 18px;
   order: 50;
