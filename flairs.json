@@ -612,6 +612,24 @@
     ]
   },
   {
+    "label": "Head Mod",
+    "name": "flair125",
+    "description": "Head Moderator of the chat room",
+    "hidden": true,
+    "priority": 126,
+    "color": "#ffd88c",
+    "rainbowColor": false,
+    "image": [
+      {
+        "url": null,
+        "name": null,
+        "mime": null,
+        "height": null,
+        "width": null
+      }
+    ]
+  },
+  {
     "label": "Emote Contributor",
     "name": "flair16",
     "description": "Designed a chat emote",

@@ -80,6 +80,13 @@
   display: none !important;
 }
 
+.flair.flair125 {
+  display: none !important;
+}
+.user.flair125 {
+  color: #ffd88c;
+}
+
 .flair.flair21 {
   background-image: url("61952a6b4a85b.png");
   height: 16px;
